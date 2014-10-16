@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[biw:home|Door43 (biw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-biw|d43-biw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-biw/archive/master.zip|d43-biw.zip]]
+
+**Recent Changes**
+{{changes>ns = biw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/biw|Ethnologue data]]
+
